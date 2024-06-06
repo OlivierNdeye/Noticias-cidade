@@ -134,6 +134,26 @@ h2 {
     color: #fff;
 }
 
+label {
+    display: block;
+    cursor: pointer;
+}
+
+input {
+    font-size: 0.9em;
+    width: 130px;
+    padding: 5px;
+    background-color: #fff;
+}
+
+input.submit {
+    width: 80px;
+    color: #fff;
+    background-color: #b10333;
+    border: 1px solid #870587 ;
+    margin-top: 5px;
+}
+
 .caixa-conteudo {
     background: #fff;
     margin-top: 5px;

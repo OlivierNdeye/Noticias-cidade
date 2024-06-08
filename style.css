@@ -133,15 +133,12 @@ label {
 }
 
 input {
-<<<<<<< HEAD
     padding: 5px;
     width: 125px;
     font-size: 0.9em;
-=======
     font-size: 0.9em;
     width: 130px;
     padding: 5px;
->>>>>>> 6a83c269a4890f8417f9d9ef65d33d0c92a2d05d
     background-color: #fff;
 }
 
@@ -149,11 +146,8 @@ input.submit {
     width: 80px;
     color: #fff;
     background-color: #b10333;
-<<<<<<< HEAD
     border: 1px solid #870529;
-=======
     border: 1px solid #870587 ;
->>>>>>> 6a83c269a4890f8417f9d9ef65d33d0c92a2d05d
     margin-top: 5px;
 }
 

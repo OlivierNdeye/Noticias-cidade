@@ -36,7 +36,6 @@ ul {
     list-style: none;
 }
 
-
 #topo ul {
     margin-top: 30px ;
     background: #b10333;
@@ -127,6 +126,22 @@ h2 {
     color: #fff;
 }
 
+h3 {
+    text-transform: uppercase;
+    display: inline;
+    font-size: 0.8em;
+    padding: 3px;
+}
+
+.destaque h3 {
+    background: #b10333;
+    color: #fff;
+}
+
+.entrevista h3 {
+    background: #de003e;
+}
+
 label {
     display: block;
     cursor: pointer;
@@ -149,6 +164,12 @@ input.submit {
     border: 1px solid #870529;
     border: 1px solid #870587 ;
     margin-top: 5px;
+}
+
+
+img.imagem-principal {
+    width: 98%;
+    border: 3px solid #dfdfdf;
 }
 
 .caixa-conteudo {

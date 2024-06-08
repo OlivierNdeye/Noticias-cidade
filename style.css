@@ -176,6 +176,7 @@ input.submit {
 
 /*Rodape*/
 #rodape {
+    text-align: center;
    width: 750px;
    margin: 0 auto;
    color: #fff;
